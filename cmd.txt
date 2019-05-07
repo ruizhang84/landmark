@@ -1,8 +1,0 @@
-./Landmark /Users/zhang/Documents/Research/LandmarkApplication/Source/v45_112_Life_Of_Pi_Lying_Actress_tilts_her_head_talking.mp4 /Users/zhang/Documents/Research/LandmarkApplication/Source/haarcascade_frontalface_alt.xml /Users/zhang/Documents/Research/LandmarkApplication/Source/lbfmodel.yaml
-./LandmarkSmoothing /Users/zhang/Documents/Research/LandmarkApplication/Source/v45_112_Life_Of_Pi_Lying_Actress_tilts_her_head_talking.mp4 /Users/zhang/Documents/Research/LandmarkApplication/Source/haarcascade_frontalface_alt.xml /Users/zhang/Documents/Research/LandmarkApplication/Source/lbfmodel.yaml
-
-./SplitsVideos "/Users/zhang/Documents/Research/LandmarkApplication/Source/acne cover up make up tutorial 1.mp4"
-
-
-cmake -DCMAKE_CXX_FLAGS="-std=c++11" .
-make
